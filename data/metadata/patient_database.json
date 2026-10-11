@@ -1,0 +1,1457 @@
+{
+    "10014729": {
+        "subject_id": "10014729",
+        "gender": "F",
+        "anchor_age": 21,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10014729/10014729_base.jpg"
+    },
+    "10003400": {
+        "subject_id": "10003400",
+        "gender": "F",
+        "anchor_age": 72,
+        "prescription": {
+            "drug": "Lenalidomide (Revlimide)15mg ",
+            "dose_val": "15",
+            "dose_unit": "mg",
+            "route": "PO",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10003400/10003400_base.jpg"
+    },
+    "10002428": {
+        "subject_id": "10002428",
+        "gender": "F",
+        "anchor_age": 80,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10002428/10002428_base.jpg"
+    },
+    "10032725": {
+        "subject_id": "10032725",
+        "gender": "F",
+        "anchor_age": 38,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10032725/10032725_base.jpg"
+    },
+    "10027445": {
+        "subject_id": "10027445",
+        "gender": "F",
+        "anchor_age": 48,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10027445/10027445_base.jpg"
+    },
+    "10037928": {
+        "subject_id": "10037928",
+        "gender": "F",
+        "anchor_age": 78,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10037928/10037928_base.jpg"
+    },
+    "10001725": {
+        "subject_id": "10001725",
+        "gender": "F",
+        "anchor_age": 46,
+        "prescription": {
+            "drug": "Zolpidem Tartrate",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10001725/10001725_base.jpg"
+    },
+    "10040025": {
+        "subject_id": "10040025",
+        "gender": "F",
+        "anchor_age": 64,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10040025/10040025_base.jpg"
+    },
+    "10008454": {
+        "subject_id": "10008454",
+        "gender": "F",
+        "anchor_age": 26,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10008454/10008454_base.jpg"
+    },
+    "10020640": {
+        "subject_id": "10020640",
+        "gender": "F",
+        "anchor_age": 91,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020640/10020640_base.jpg"
+    },
+    "10014078": {
+        "subject_id": "10014078",
+        "gender": "F",
+        "anchor_age": 60,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10014078/10014078_base.jpg"
+    },
+    "10007795": {
+        "subject_id": "10007795",
+        "gender": "F",
+        "anchor_age": 53,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10007795/10007795_base.jpg"
+    },
+    "10001217": {
+        "subject_id": "10001217",
+        "gender": "F",
+        "anchor_age": 55,
+        "prescription": {
+            "drug": "OxycoDONE (Immediate Release) ",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10001217/10001217_base.jpg"
+    },
+    "10019172": {
+        "subject_id": "10019172",
+        "gender": "F",
+        "anchor_age": 63,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019172/10019172_base.jpg"
+    },
+    "10039831": {
+        "subject_id": "10039831",
+        "gender": "F",
+        "anchor_age": 57,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10039831/10039831_base.jpg"
+    },
+    "10007928": {
+        "subject_id": "10007928",
+        "gender": "F",
+        "anchor_age": 59,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10007928/10007928_base.jpg"
+    },
+    "10019003": {
+        "subject_id": "10019003",
+        "gender": "F",
+        "anchor_age": 65,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019003/10019003_base.jpg"
+    },
+    "10002930": {
+        "subject_id": "10002930",
+        "gender": "F",
+        "anchor_age": 48,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10002930/10002930_base.jpg"
+    },
+    "10010471": {
+        "subject_id": "10010471",
+        "gender": "F",
+        "anchor_age": 89,
+        "prescription": {
+            "drug": "Aspirin",
+            "dose_val": "81",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10010471/10010471_base.jpg"
+    },
+    "10027602": {
+        "subject_id": "10027602",
+        "gender": "F",
+        "anchor_age": 71,
+        "prescription": {
+            "drug": "Fentanyl Citrate",
+            "dose_val": "",
+            "dose_unit": "",
+            "route": "PO",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10027602/10027602_base.jpg"
+    },
+    "10031757": {
+        "subject_id": "10031757",
+        "gender": "F",
+        "anchor_age": 67,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10031757/10031757_base.jpg"
+    },
+    "10016742": {
+        "subject_id": "10016742",
+        "gender": "F",
+        "anchor_age": 58,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10016742/10016742_base.jpg"
+    },
+    "10039997": {
+        "subject_id": "10039997",
+        "gender": "F",
+        "anchor_age": 67,
+        "prescription": {
+            "drug": "Aspirin",
+            "dose_val": "325",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10039997/10039997_base.jpg"
+    },
+    "10012853": {
+        "subject_id": "10012853",
+        "gender": "F",
+        "anchor_age": 91,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10012853/10012853_base.jpg"
+    },
+    "10000032": {
+        "subject_id": "10000032",
+        "gender": "F",
+        "anchor_age": 52,
+        "prescription": {
+            "drug": "PCM",
+            "dose_val": "2",
+            "dose_unit": "CAP",
+            "route": "IH",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10000032/10000032_base.jpg",
+        "prescriptions": [
+            {
+                "drug": "PCM",
+                "dose_val": "2",
+                "dose_unit": "CAP",
+                "route": "IH",
+                "doses_per_24_hrs": "1.0"
+            }
+        ],
+        "last_edited": "2026-10-07T16:26:44.510415"
+    },
+    "10031404": {
+        "subject_id": "10031404",
+        "gender": "F",
+        "anchor_age": 82,
+        "prescription": {
+            "drug": "amLODIPine",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10031404/10031404_base.jpg"
+    },
+    "10029291": {
+        "subject_id": "10029291",
+        "gender": "F",
+        "anchor_age": 50,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10029291/10029291_base.jpg"
+    },
+    "10005909": {
+        "subject_id": "10005909",
+        "gender": "F",
+        "anchor_age": 40,
+        "prescription": {
+            "drug": "ClonazePAM",
+            "dose_val": "0.5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "2.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10005909/10005909_base.jpg"
+    },
+    "10039708": {
+        "subject_id": "10039708",
+        "gender": "F",
+        "anchor_age": 46,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10039708/10039708_base.jpg"
+    },
+    "10019568": {
+        "subject_id": "10019568",
+        "gender": "F",
+        "anchor_age": 59,
+        "prescription": {
+            "drug": "FoLIC Acid",
+            "dose_val": "1",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019568/10019568_base.jpg"
+    },
+    "10020187": {
+        "subject_id": "10020187",
+        "gender": "F",
+        "anchor_age": 63,
+        "prescription": {
+            "drug": "Acetaminophen-Caff-Butalbital",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020187/10020187_base.jpg"
+    },
+    "10016810": {
+        "subject_id": "10016810",
+        "gender": "F",
+        "anchor_age": 66,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10016810/10016810_base.jpg"
+    },
+    "10038081": {
+        "subject_id": "10038081",
+        "gender": "F",
+        "anchor_age": 63,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10038081/10038081_base.jpg"
+    },
+    "10021312": {
+        "subject_id": "10021312",
+        "gender": "F",
+        "anchor_age": 55,
+        "prescription": {
+            "drug": "ALPRAZolam",
+            "dose_val": "1",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10021312/10021312_base.jpg"
+    },
+    "10006580": {
+        "subject_id": "10006580",
+        "gender": "F",
+        "anchor_age": 63,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10006580/10006580_base.jpg"
+    },
+    "10010867": {
+        "subject_id": "10010867",
+        "gender": "F",
+        "anchor_age": 28,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10010867/10010867_base.jpg"
+    },
+    "10020786": {
+        "subject_id": "10020786",
+        "gender": "F",
+        "anchor_age": 86,
+        "prescription": {
+            "drug": "Apixaban",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "2.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020786/10020786_base.jpg"
+    },
+    "10020306": {
+        "subject_id": "10020306",
+        "gender": "F",
+        "anchor_age": 74,
+        "prescription": {
+            "drug": "Calcium Gluconate sliding scale (Critical Care-Ionized calcium)",
+            "dose_val": "0",
+            "dose_unit": "g",
+            "route": "IV",
+            "doses_per_24_hrs": "0.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020306/10020306_base.jpg"
+    },
+    "10023239": {
+        "subject_id": "10023239",
+        "gender": "F",
+        "anchor_age": 29,
+        "prescription": {
+            "drug": "Insulin Pump (Self Administering Medication)",
+            "dose_val": "",
+            "dose_unit": "",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10023239/10023239_base.jpg"
+    },
+    "10018328": {
+        "subject_id": "10018328",
+        "gender": "F",
+        "anchor_age": 83,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10018328/10018328_base.jpg"
+    },
+    "10008287": {
+        "subject_id": "10008287",
+        "gender": "F",
+        "anchor_age": 43,
+        "prescription": {
+            "drug": "CeFAZolin",
+            "dose_val": "1",
+            "dose_unit": "g",
+            "route": "IV",
+            "doses_per_24_hrs": "3.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10008287/10008287_base.jpg"
+    },
+    "10036156": {
+        "subject_id": "10036156",
+        "gender": "F",
+        "anchor_age": 88,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10036156/10036156_base.jpg"
+    },
+    "10015272": {
+        "subject_id": "10015272",
+        "gender": "F",
+        "anchor_age": 78,
+        "prescription": {
+            "drug": "Aspirin",
+            "dose_val": "81",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10015272/10015272_base.jpg"
+    },
+    "10022281": {
+        "subject_id": "10022281",
+        "gender": "M",
+        "anchor_age": 84,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10022281/10022281_base.jpg"
+    },
+    "10035631": {
+        "subject_id": "10035631",
+        "gender": "M",
+        "anchor_age": 63,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10035631/10035631_base.jpg"
+    },
+    "10024043": {
+        "subject_id": "10024043",
+        "gender": "M",
+        "anchor_age": 67,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10024043/10024043_base.jpg"
+    },
+    "10025612": {
+        "subject_id": "10025612",
+        "gender": "M",
+        "anchor_age": 82,
+        "prescription": {
+            "drug": "Neutra-Phos",
+            "dose_val": "1",
+            "dose_unit": "PKT",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "3.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10025612/10025612_base.jpg"
+    },
+    "10003046": {
+        "subject_id": "10003046",
+        "gender": "M",
+        "anchor_age": 64,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10003046/10003046_base.jpg"
+    },
+    "10021666": {
+        "subject_id": "10021666",
+        "gender": "M",
+        "anchor_age": 87,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10021666/10021666_base.jpg"
+    },
+    "10018423": {
+        "subject_id": "10018423",
+        "gender": "M",
+        "anchor_age": 37,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10018423/10018423_base.jpg"
+    },
+    "10025463": {
+        "subject_id": "10025463",
+        "gender": "M",
+        "anchor_age": 66,
+        "prescription": {
+            "drug": "Oxycodone-Acetaminophen (5mg-325mg)",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10025463/10025463_base.jpg"
+    },
+    "10017492": {
+        "subject_id": "10017492",
+        "gender": "M",
+        "anchor_age": 84,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10017492/10017492_base.jpg"
+    },
+    "10004422": {
+        "subject_id": "10004422",
+        "gender": "M",
+        "anchor_age": 78,
+        "prescription": {
+            "drug": "Neutra-Phos",
+            "dose_val": "1",
+            "dose_unit": "PKT",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10004422/10004422_base.jpg"
+    },
+    "10011398": {
+        "subject_id": "10011398",
+        "gender": "M",
+        "anchor_age": 67,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10011398/10011398_base.jpg"
+    },
+    "10021938": {
+        "subject_id": "10021938",
+        "gender": "M",
+        "anchor_age": 65,
+        "prescription": {
+            "drug": "Nephrocaps",
+            "dose_val": "1",
+            "dose_unit": "CAP",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10021938/10021938_base.jpg"
+    },
+    "10009628": {
+        "subject_id": "10009628",
+        "gender": "M",
+        "anchor_age": 58,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10009628/10009628_base.jpg"
+    },
+    "10004457": {
+        "subject_id": "10004457",
+        "gender": "M",
+        "anchor_age": 65,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10004457/10004457_base.jpg"
+    },
+    "10015860": {
+        "subject_id": "10015860",
+        "gender": "M",
+        "anchor_age": 53,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10015860/10015860_base.jpg"
+    },
+    "10021487": {
+        "subject_id": "10021487",
+        "gender": "M",
+        "anchor_age": 43,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10021487/10021487_base.jpg"
+    },
+    "10013049": {
+        "subject_id": "10013049",
+        "gender": "M",
+        "anchor_age": 52,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10013049/10013049_base.jpg"
+    },
+    "10026255": {
+        "subject_id": "10026255",
+        "gender": "M",
+        "anchor_age": 66,
+        "prescription": {
+            "drug": "Tiotropium Bromide",
+            "dose_val": "1",
+            "dose_unit": "CAP",
+            "route": "IH",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10026255/10026255_base.jpg"
+    },
+    "10023771": {
+        "subject_id": "10023771",
+        "gender": "M",
+        "anchor_age": 70,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10023771/10023771_base.jpg"
+    },
+    "10023117": {
+        "subject_id": "10023117",
+        "gender": "M",
+        "anchor_age": 53,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10023117/10023117_base.jpg"
+    },
+    "10022041": {
+        "subject_id": "10022041",
+        "gender": "M",
+        "anchor_age": 64,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10022041/10022041_base.jpg"
+    },
+    "10005348": {
+        "subject_id": "10005348",
+        "gender": "M",
+        "anchor_age": 76,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10005348/10005348_base.jpg"
+    },
+    "10009035": {
+        "subject_id": "10009035",
+        "gender": "M",
+        "anchor_age": 28,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10009035/10009035_base.jpg"
+    },
+    "10018081": {
+        "subject_id": "10018081",
+        "gender": "M",
+        "anchor_age": 79,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10018081/10018081_base.jpg"
+    },
+    "10038933": {
+        "subject_id": "10038933",
+        "gender": "M",
+        "anchor_age": 34,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10038933/10038933_base.jpg"
+    },
+    "10037975": {
+        "subject_id": "10037975",
+        "gender": "M",
+        "anchor_age": 60,
+        "prescription": {
+            "drug": "CefePIME",
+            "dose_val": "2",
+            "dose_unit": "g",
+            "route": "IV",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10037975/10037975_base.jpg"
+    },
+    "10035185": {
+        "subject_id": "10035185",
+        "gender": "M",
+        "anchor_age": 70,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10035185/10035185_base.jpg"
+    },
+    "10014354": {
+        "subject_id": "10014354",
+        "gender": "M",
+        "anchor_age": 60,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10014354/10014354_base.jpg"
+    },
+    "10022880": {
+        "subject_id": "10022880",
+        "gender": "M",
+        "anchor_age": 66,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10022880/10022880_base.jpg"
+    },
+    "10004720": {
+        "subject_id": "10004720",
+        "gender": "M",
+        "anchor_age": 61,
+        "prescription": {
+            "drug": "Neutra-Phos",
+            "dose_val": "1",
+            "dose_unit": "PKT",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10004720/10004720_base.jpg"
+    },
+    "10019385": {
+        "subject_id": "10019385",
+        "gender": "M",
+        "anchor_age": 44,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019385/10019385_base.jpg"
+    },
+    "10029484": {
+        "subject_id": "10029484",
+        "gender": "M",
+        "anchor_age": 64,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10029484/10029484_base.jpg"
+    },
+    "10037861": {
+        "subject_id": "10037861",
+        "gender": "M",
+        "anchor_age": 77,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10037861/10037861_base.jpg"
+    },
+    "10026406": {
+        "subject_id": "10026406",
+        "gender": "M",
+        "anchor_age": 45,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10026406/10026406_base.jpg"
+    },
+    "10007818": {
+        "subject_id": "10007818",
+        "gender": "M",
+        "anchor_age": 69,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10007818/10007818_base.jpg"
+    },
+    "10020740": {
+        "subject_id": "10020740",
+        "gender": "M",
+        "anchor_age": 56,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020740/10020740_base.jpg"
+    },
+    "10038999": {
+        "subject_id": "10038999",
+        "gender": "M",
+        "anchor_age": 45,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10038999/10038999_base.jpg"
+    },
+    "10004235": {
+        "subject_id": "10004235",
+        "gender": "M",
+        "anchor_age": 47,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10004235/10004235_base.jpg"
+    },
+    "10022017": {
+        "subject_id": "10022017",
+        "gender": "M",
+        "anchor_age": 59,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10022017/10022017_base.jpg"
+    },
+    "10002495": {
+        "subject_id": "10002495",
+        "gender": "M",
+        "anchor_age": 81,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10002495/10002495_base.jpg"
+    },
+    "10018845": {
+        "subject_id": "10018845",
+        "gender": "M",
+        "anchor_age": 91,
+        "prescription": {
+            "drug": "CefazoLIN",
+            "dose_val": "1",
+            "dose_unit": "g",
+            "route": "IV",
+            "doses_per_24_hrs": "3.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10018845/10018845_base.jpg"
+    },
+    "10020944": {
+        "subject_id": "10020944",
+        "gender": "M",
+        "anchor_age": 72,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10020944/10020944_base.jpg"
+    },
+    "10016150": {
+        "subject_id": "10016150",
+        "gender": "M",
+        "anchor_age": 69,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10016150/10016150_base.jpg"
+    },
+    "10005866": {
+        "subject_id": "10005866",
+        "gender": "M",
+        "anchor_age": 57,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10005866/10005866_base.jpg"
+    },
+    "10026354": {
+        "subject_id": "10026354",
+        "gender": "M",
+        "anchor_age": 34,
+        "prescription": {
+            "drug": "Heparin",
+            "dose_val": "5000",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "2.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10026354/10026354_base.jpg"
+    },
+    "10019917": {
+        "subject_id": "10019917",
+        "gender": "M",
+        "anchor_age": 44,
+        "prescription": {
+            "drug": "FoLIC Acid",
+            "dose_val": "1",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019917/10019917_base.jpg"
+    },
+    "10019777": {
+        "subject_id": "10019777",
+        "gender": "M",
+        "anchor_age": 51,
+        "prescription": {
+            "drug": "Lorazepam",
+            "dose_val": "1",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10019777/10019777_base.jpg"
+    },
+    "10005817": {
+        "subject_id": "10005817",
+        "gender": "M",
+        "anchor_age": 66,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10005817/10005817_base.jpg"
+    },
+    "10009049": {
+        "subject_id": "10009049",
+        "gender": "M",
+        "anchor_age": 56,
+        "prescription": {
+            "drug": "Lidocaine Jelly 2% (Urojet)",
+            "dose_val": "1",
+            "dose_unit": "Appl",
+            "route": "TP",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10009049/10009049_base.jpg"
+    },
+    "10015931": {
+        "subject_id": "10015931",
+        "gender": "M",
+        "anchor_age": 87,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10015931/10015931_base.jpg"
+    },
+    "10006053": {
+        "subject_id": "10006053",
+        "gender": "M",
+        "anchor_age": 52,
+        "prescription": {
+            "drug": "Multivitamins",
+            "dose_val": "1",
+            "dose_unit": "TAB",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10006053/10006053_base.jpg"
+    },
+    "10012552": {
+        "subject_id": "10012552",
+        "gender": "M",
+        "anchor_age": 78,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10012552/10012552_base.jpg"
+    },
+    "10004733": {
+        "subject_id": "10004733",
+        "gender": "M",
+        "anchor_age": 51,
+        "prescription": {
+            "drug": "Amlodipine",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10004733/10004733_base.jpg"
+    },
+    "10021118": {
+        "subject_id": "10021118",
+        "gender": "M",
+        "anchor_age": 62,
+        "prescription": {
+            "drug": "Insulin",
+            "dose_val": "0",
+            "dose_unit": "UNIT",
+            "route": "SC",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10021118/10021118_base.jpg"
+    },
+    "10018501": {
+        "subject_id": "10018501",
+        "gender": "M",
+        "anchor_age": 83,
+        "prescription": {
+            "drug": "Diazepam",
+            "dose_val": "5",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10018501/10018501_base.jpg"
+    },
+    "10007058": {
+        "subject_id": "10007058",
+        "gender": "M",
+        "anchor_age": 48,
+        "prescription": {
+            "drug": "Aspirin",
+            "dose_val": "81",
+            "dose_unit": "mg",
+            "route": "PO/NG",
+            "doses_per_24_hrs": "1.0"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10007058/10007058_base.jpg"
+    },
+    "10038992": {
+        "subject_id": "10038992",
+        "gender": "M",
+        "anchor_age": 70,
+        "prescription": {
+            "drug": "vancomycin",
+            "dose_val": "125",
+            "dose_unit": "mg",
+            "route": "ORAL",
+            "doses_per_24_hrs": "1"
+        },
+        "enrolled": true,
+        "face_image_path": "data/raw/10038992/10038992_base.jpg"
+    },
+    "MAN001": {
+        "subject_id": "MAN001",
+        "gender": "M",
+        "anchor_age": 23,
+        "prescription": {
+            "drug": "PCM",
+            "dose_val": "20",
+            "dose_unit": "mL",
+            "route": "PO",
+            "doses_per_24_hrs": "1",
+            "dispense_duration_seconds": 5
+        },
+        "enrolled": true,
+        "enrolled_date": "2026-10-02",
+        "face_image_path": "data/raw/MAN001/webcam_20261002_222946_000.jpg",
+        "enrollment_source": "manual",
+        "prescriptions": [
+            {
+                "drug": "PCM",
+                "dose_val": "20",
+                "dose_unit": "mL",
+                "route": "PO",
+                "doses_per_24_hrs": "1",
+                "dispense_duration_seconds": 5
+            }
+        ],
+        "last_edited": "2026-10-07T16:13:39.683455"
+    },
+    "MAN002": {
+        "subject_id": "MAN002",
+        "gender": "M",
+        "anchor_age": 26,
+        "prescription": {
+            "drug": "LSD",
+            "dose_val": "20",
+            "dose_unit": "mL",
+            "route": "IV",
+            "doses_per_24_hrs": "4",
+            "dispense_duration_seconds": 1
+        },
+        "enrolled": true,
+        "enrolled_date": "2026-10-02",
+        "face_image_path": "data/raw/MAN002/webcam_20261002_223527_000.jpg",
+        "enrollment_source": "manual"
+    }
+}
